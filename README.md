@@ -34,21 +34,20 @@ These will be shown as:
 
 🔒 Premium
 
-yaml
-Zkopírovat
-Upravit
-
 If you upgrade your plan, they’ll be automatically shown without changing anything in the app.
 
+Note: Although the free plan on Financial Modeling Prep offers 250 API calls per day,
+the app makes 2 API calls per ticker search, which effectively limits you to 125 ticker searches per day.
 ---
 
 ## 📷 Screenshots
 
 ### ✅ Example (Free data available)
-![AAPL Screenshot](screenshots/aapl.png)
+![Apple](https://github.com/user-attachments/assets/ddf5b976-35bb-4841-811c-ae9f328ace03)
 
 ### 🔒 Example with Premium-only fields
-![BTI Screenshot](screenshots/bti.png)
+![BTI](https://github.com/user-attachments/assets/10541b3d-b701-4a48-a2b3-dc62166ffa4c)
+
 
 ---
 
