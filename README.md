@@ -19,7 +19,7 @@ QuickStock uses the [Financial Modeling Prep API](https://site.financialmodeling
 To use the app, you’ll need to:
 
 1. Register for a free account:  
-   👉 [https://site.financialmodelingprep.com/developer](https://site.financialmodelingprep.com/register)
+   👉 https://site.financialmodelingprep.com/register
 
 2. Get your API key.
 
