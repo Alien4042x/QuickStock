@@ -1,1 +1,22 @@
-QuickStock.xcodeproj/project.xcworkspace/xcuserdata/
+# Xcode user-specific settings
+*.xcuserstate
+*.xcuserdata/
+*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Derived data & build
+DerivedData/
+build/
+
+# macOS system files
+.DS_Store
+
+# Xcode workspace shared settings (optional, only if you're solo)
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# Optional: App builds
+*.app
+*.ipa
+*.dSYM
+*.xcarchive
