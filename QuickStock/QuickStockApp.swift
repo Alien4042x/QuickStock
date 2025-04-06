@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import SwiftUI
 
 @main
 struct QuickStockApp: App {
