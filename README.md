@@ -1,3 +1,7 @@
+[![Release](https://img.shields.io/github/v/release/Alien4042x/QuickStock)](https://github.com/Alien4042x/QuickStock/releases)
+[![Downloads](https://img.shields.io/github/downloads/Alien4042x/QuickStock/total)](https://github.com/Alien4042x/QuickStock/releases)
+[![License](https://img.shields.io/github/license/Alien4042x/QuickStock)](https://github.com/Alien4042x/QuickStock/blob/main/LICENSE)
+
 # 📊 QuickStock
 
 **macOS stock analyzer app** built with Swift – delivered ready to use!  
