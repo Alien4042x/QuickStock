@@ -66,7 +66,7 @@ the app makes 2 API calls per ticker search, which effectively limits you to 125
 ## 👨‍💻 For Developers
 
 You’re welcome to dive into the code and customize it.  
-Open the project in Xcode (`QuickStock.xcodeproj`), insert your API key, and build away.
+Open the project in Xcode and build away.
 
 ---
 
